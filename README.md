@@ -1,4 +1,4 @@
-### Hello There 💫
+### Hello There 👋
 Discord: Kele#8799 <br>
 
 ![meme](https://komarev.com/ghpvc/?username=7zr&style=flat-square&color=yellow) <br>
