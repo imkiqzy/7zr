@@ -1,4 +1,4 @@
-# Kele / 52Meli
+# Kele
 
 <p align="center">
   <a href="https://github.com/7zr">
