@@ -1,4 +1,4 @@
-# Kele
+# Discord
 
 <p align="center">
   <a href="https://github.com/7zr">
